@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I'm a a backend programmer（CRUD juggler😊)
-- 💼 I’m currently working on A manufacturing company in China
+- 💼 I’m currently working on a manufacturing company in China
 - 🚀 I use daily:
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat&logo=Python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 - 🌱 I’m currently learning:
   ![goland](https://img.shields.io/badge/Goland-blue?style=plastic&logo=goland)
-  ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
+  ![Rust](https://img.shields.io/badge/Rust-red?style=plastic&logo=rust)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 ___
