@@ -23,9 +23,11 @@ Here are some ideas to get you started:
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=flat&logo=Shell)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 - 💻 I work using:
+  ![Static Badge](https://img.shields.io/badge/FastApi-black?style=plastic&logo=FastApi)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
+  ![Static Badge](https://img.shields.io/badge/Gin_Framework-blue?style=plastic&logo=go&labelColor=5B7C7A)
   ![Vue](https://img.shields.io/badge/-Vue-black?style=plastic&logo=vuedotjs)
-  ![MySql](https://img.shields.io/badge/-MySql-181717?style=plastic&logo=mysql)
+  ![Static Badge](https://img.shields.io/badge/Mysql-FFFF7B?style=plastic&logo=mysql)
   ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-232F3E?style=plastic&logo=alibabacloud)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 - 🌱 I’m currently learning:
