@@ -1,4 +1,4 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Iceiceice+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 <!--
 **zxj17815/zxj17815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,4 +36,5 @@ Here are some ideas to get you started:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 ___
-![](https://github-readme-stats.vercel.app/api?username=zxj17815&theme=dark)
+|![](https://github-readme-stats.vercel.app/api?username=zxj17815&theme=dark)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxj17815&layout=compact&theme=dark&hide_border=true)|
+|------------|----------|
