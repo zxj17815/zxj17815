@@ -1,5 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Iceiceice+%F0%9F%98%8A)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=&vCenter=&width=435&lines=Hi+there+%F0%9F%91%8B+;+I'm+Iceiceice+%F0%9F%98%8A;%F0%9F%91%89+www.iceiceice.work+%F0%9F%91%88)](https://git.io/typing-svg)
 <!--
 **zxj17815/zxj17815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,6 +34,7 @@ Here are some ideas to get you started:
   ![Rust](https://img.shields.io/badge/Rust-red?style=plastic&logo=rust)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+- 🌍 Welcome to my website: [www.iceiceice.work](http://www.iceiceice.work/)    
 ___
 |![](https://github-readme-stats.vercel.app/api?username=zxj17815&theme=dark)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxj17815&layout=compact&theme=dark&hide_border=true)|
 |------------|----------|
